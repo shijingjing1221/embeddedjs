@@ -1,0 +1,28 @@
+{
+  "name": "embeddedjs",
+  "main": "ejs_production.js",
+  "version": "1.0.0",
+  "authors": [
+    "shijingjing1221@gmail.com"
+  ],
+  "description": "Embedded JavaScript",
+  "moduleType": [
+    "globals"
+  ],
+  "keywords": [
+    "ejs",
+    "Embedded",
+    "JS",
+    "JS",
+    "template"
+  ],
+  "license": "MIT",
+  "homepage": "http://www.embeddedjs.com/",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
